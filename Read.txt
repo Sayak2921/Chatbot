@@ -1,0 +1,8 @@
+Steps:-
+
+1.First open browser and go to google colab.
+
+2.open bot.py
+
+3.Install the packets that required to run the code. 
+
